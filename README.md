@@ -35,7 +35,7 @@ Users should be able to:
 ![](./screenshots/submit-desktop.png)
 ![](./screenshots/submit-mobile.png)
 ![](./screenshots/dismiss-desktop.png)
-![](./screenshots/dismiss-mobile.png.png)
+![](./screenshots/dismiss-mobile.png)
 
 ### Links
 
